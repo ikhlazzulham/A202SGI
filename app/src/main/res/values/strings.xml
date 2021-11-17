@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDS Adviser</string>
+    <string-array name="type">
+        <item>Crustaceans</item>
+        <item>Fish</item>
+        <item>Plants</item>
+    </string-array>
+</resources>
